@@ -1,8 +1,4 @@
-## 👋 Hi, I'm Sabrina Correa de Moraes (SabrinaMoraes22)
 
-🎓 I'm a student of Systems Analysis and Development at UniCesumar (Brazil)
-💻 I'm currently starting my journey in technology and programming
-🚀 I'm learning and building my first projects
 
 <h1 align="center">Hi 👋, I'm Sabrina Correa de Moraes</h1>
 
